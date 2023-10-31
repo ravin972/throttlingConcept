@@ -1,0 +1,14 @@
+{
+  "name": "throttling",
+  "version": "1.0.0",
+  "description": "Main concept is throttling.",
+  "main": "script.js",
+  "scripts": {
+    "test": "npm run"
+  },
+  "keywords": [
+    "throttle"
+  ],
+  "author": "Ravinder Pandey",
+  "license": "/src/LICENSE"
+}
