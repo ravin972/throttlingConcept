@@ -52,7 +52,7 @@ GSAP (GreenSock Animation Platform): A popular JavaScript animation library.
 Ensure that you have a stable internet connection when running the project since it fetches images from external URLs.
 
 ### Demo
-To see a live demo of this project in action, you can visit the following link: Throttling Concept Demo
+To see a live demo of this project in action, you can visit the following link: [Throttling Concept Demo](https://throttling-concept.vercel.app/)
 
 ### License
 This project is licensed under the MIT License - see the [LICENSE](/src/LICENSE.md) file for details.
